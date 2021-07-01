@@ -1,0 +1,10 @@
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.csprojAssemblyReference.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.Form1.resources
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.Properties.Resources.resources
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.csproj.GenerateResource.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.csproj.CoreCompileInputs.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\bin\Debug\Lab_7_pacman.exe.config
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\bin\Debug\Lab_7_pacman.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\bin\Debug\Lab_7_pacman.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab_7_pacman\obj\Debug\Lab_7_pacman.pdb
